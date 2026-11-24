@@ -1,6 +1,6 @@
 # RadioFlow
 
-![RadioFlow](RadioFull%20-%20Full%20App%20Logo.png)
+![RadioFlow](docs/RadioFull%20-%20Full%20App%20Logo.png)
 
 **Internet radio from your Mac keyboard.** RadioFlow is an Alfred workflow for discovering, saving, and playing internet radio stations without opening a separate radio app.
 
